@@ -1,7 +1,7 @@
 url: $TDD_PANEL
-status: down
-code: 404
-responseTime: 103
-lastUpdated: 2024-08-17T11:13:55.943Z
+status: up
+code: 200
+responseTime: 111
+lastUpdated: 2024-08-17T11:16:01.074Z
 startTime: 2024-08-17T10:18:38.701Z
 generator: Upptime <https://github.com/upptime/upptime>
