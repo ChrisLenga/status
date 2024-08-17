@@ -4,18 +4,21 @@ repo: status # The name of this repository
 
 sites:
   - name: The Digital Den
-    url: $TDD_SITE
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://dgden.com
+  - name: The Digital Den Panel
+    url: https://p.dgden.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Horoscope Bot
+    url: $DISCORD_BOT_API
+    port: $DISCORD_BOT_PORT
     check: "tcp-ping"
-    ipv6: true
+  - name: iSe.GG Combat Remastered
+    url: $ISE1
+    port: $ISE2
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
