@@ -22,19 +22,19 @@
     "url": "$TDD_PANEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-digital-den-panel",
-    "status": "down",
-    "uptime": "81.22%",
-    "uptimeDay": "81.22%",
-    "uptimeWeek": "81.22%",
-    "uptimeMonth": "81.22%",
-    "uptimeYear": "81.22%",
-    "time": 121,
-    "timeDay": 121,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "status": "up",
+    "uptime": "78.53%",
+    "uptimeDay": "78.53%",
+    "uptimeWeek": "78.53%",
+    "uptimeMonth": "78.53%",
+    "uptimeYear": "78.53%",
+    "time": 120,
+    "timeDay": 120,
+    "timeWeek": 120,
+    "timeMonth": 120,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-08-17": 10
+      "2024-08-17": 12
     }
   },
   {
