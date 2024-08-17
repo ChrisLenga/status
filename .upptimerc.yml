@@ -8,20 +8,20 @@ sites:
   - name: The Digital Den Panel
     url: https://p.dgden.com
   - name: Horoscope Bot
-    url: $DISCORD_BOT_API
-    port: $DISCORD_BOT_PORT
+    url: $DISCORD_BOT1_API
+    port: $DISCORD_BOT1_PORT
     check: "tcp-ping"
   - name: The Digital Den
-    url: $DISCORD_BOT_API
-    port: $DISCORD_BOT_PORT
+    url: $DISCORD_BOT2_API
+    port: $DISCORD_BOT2_PORT
     check: "tcp-ping"
   - name: GitHub Bot
-    url: $DISCORD_BOT_API
-    port: $DISCORD_BOT_PORT
+    url: $DISCORD_BOT3_API
+    port: $DISCORD_BOT3_PORT
     check: "tcp-ping"
   - name: Streamer Bot
-    url: $DISCORD_BOT_API
-    port: $DISCORD_BOT_PORT
+    url: $DISCORD_BOT4_API
+    port: $DISCORD_BOT4_PORT
     check: "tcp-ping"
   - name: [FiveM] iSe.GG Combat Remastered
     url: $ISE1
