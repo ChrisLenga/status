@@ -6,7 +6,7 @@ sites:
   - name: The Digital Den Website
     url: $TDD_SITE
   - name: The Digital Den Panel
-    url: https://p.dgden.com
+    url: $TDD_PANEL
   - name: Horoscope Bot
     url: $DISCORD_BOT1_API
     port: $DISCORD_BOT1_PORT
