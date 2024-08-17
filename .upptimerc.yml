@@ -39,9 +39,9 @@ status-website:
   cname: status.dgden.com
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: The Digital Den Services
+  introTitle: "All community services and their statuses."
+  introMessage: Here you will find all services that are currently used by the community which includes real-time statuses.
   navbar:
     - title: Status
       href: /
