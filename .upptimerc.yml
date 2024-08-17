@@ -33,19 +33,21 @@ sites:
     check: "tcp-ping"
 
 status-website:
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dgden.com
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://dgden.com/images/thedigitalden.svg
   name: The Digital Den Services
   introTitle: "All community services and their statuses."
-  introMessage: Here you will find all services that are currently used by the community which includes real-time statuses.
+  introMessage: Find real-time statuses of all services currently used by the community here.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
+    - title: Main Website
+      href: https://dgden.com
+    - title: Discord
+      href: https://discord.gg/YhvJkuAwYW
+    - title: Personal GitHub
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
