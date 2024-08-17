@@ -3,21 +3,33 @@ owner: chrislenga # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: The Digital Den
+  - name: The Digital Den Website
     url: $TDD_SITE
   - name: The Digital Den Panel
     url: https://p.dgden.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Horoscope Bot
     url: $DISCORD_BOT_API
     port: $DISCORD_BOT_PORT
     check: "tcp-ping"
-  - name: iSe.GG Combat Remastered
+  - name: The Digital Den
+    url: $DISCORD_BOT_API
+    port: $DISCORD_BOT_PORT
+    check: "tcp-ping"
+  - name: GitHub Bot
+    url: $DISCORD_BOT_API
+    port: $DISCORD_BOT_PORT
+    check: "tcp-ping"
+  - name: Streamer Bot
+    url: $DISCORD_BOT_API
+    port: $DISCORD_BOT_PORT
+    check: "tcp-ping"
+  - name: [FiveM] iSe.GG Combat Remastered
     url: $ISE1
     port: $ISE2
+    check: "tcp-ping"
+  - name: [7D2D] Zed Slayers Anonymous
+    url: $S7D1
+    port: $S7D2
     check: "tcp-ping"
 
 status-website:
