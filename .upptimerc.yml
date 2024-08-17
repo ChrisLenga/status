@@ -7,7 +7,6 @@ sites:
     url: $TDD_SITE
   - name: The Digital Den Panel
     url: $TDD_PANEL
-    port: $TDD_PANEL_PORT
   - name: Horoscope Bot
     url: $DISCORD_BOT1_API
     port: $DISCORD_BOT1_PORT
