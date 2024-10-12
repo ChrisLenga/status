@@ -114,10 +114,10 @@
     "url": "$ISE1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "five-m-i-se-gg-combat-remastered",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
@@ -125,7 +125,9 @@
     "timeWeek": 28,
     "timeMonth": 28,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 1
+    }
   },
   {
     "name": "[7D2D] Zed Slayers Anonymous",
@@ -133,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "7-d2-d-zed-slayers-anonymous",
     "status": "down",
-    "uptime": "43.11%",
+    "uptime": "42.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.11%",
+    "uptimeYear": "42.85%",
     "time": 36,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-10-12": 2,
+      "2024-10-12": 474,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
