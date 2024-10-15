@@ -114,10 +114,10 @@
     "url": "$ISE1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "five-m-i-se-gg-combat-remastered",
-    "status": "up",
+    "status": "down",
     "uptime": "94.63%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "54.65%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "54.63%",
     "uptimeMonth": "89.56%",
     "uptimeYear": "94.63%",
     "time": 26,
@@ -126,7 +126,7 @@
     "timeMonth": 28,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2024-10-15": 811,
+      "2024-10-15": 812,
       "2024-10-14": 1391,
       "2024-10-13": 1404,
       "2024-10-12": 967
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-10-15": 812,
+      "2024-10-15": 822,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
