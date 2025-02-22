@@ -1,7 +1,7 @@
 url: $TDD_SITE
-status: down
-code: 415
-responseTime: 49
-lastUpdated: 2025-02-22T23:42:04.976Z
+status: up
+code: 200
+responseTime: 51
+lastUpdated: 2025-02-22T23:47:53.820Z
 startTime: 2024-08-17T10:31:41.186Z
 generator: Upptime <https://github.com/upptime/upptime>
