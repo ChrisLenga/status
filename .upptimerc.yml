@@ -37,11 +37,11 @@ status-website:
   navbar:
     - title: Website
       href: https://dgden.com
-    - title: Documentation
+    - title: Docs
       href: https://docs.dgden.com
     - title: Discord
       href: https://discord.dgden.com
-    - title: Tebex Store
+    - title: Tebex
       href: https://dgden.tebex.io/
 i18n:
   footer: The Digital Den
