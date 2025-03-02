@@ -23,14 +23,6 @@ sites:
     url: $DISCORD_BOT4_API
     port: $DISCORD_BOT4_PORT
     check: "tcp-ping"
-  - name: "[FiveM] iSe.GG Combat Remastered"
-    url: $ISE1
-    port: $ISE2
-    check: "tcp-ping"
-  - name: "[7D2D] Zed Slayers Anonymous"
-    url: $S7D1
-    port: $S7D2
-    check: "tcp-ping"
 
 status-website:
   theme: night
