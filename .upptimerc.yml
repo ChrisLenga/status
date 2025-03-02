@@ -35,10 +35,14 @@ status-website:
   introTitle: "All Digital Den services and their statuses."
   introMessage: Find real-time statuses of all services here.
   navbar:
-    - title: Main Website
+    - title: Website
       href: https://dgden.com
+    - title: Documentation
+      href: https://docs.dgden.com
     - title: Discord
       href: https://discord.dgden.com
+    - title: Tebex Store
+      href: https://dgden.tebex.io/
 i18n:
   footer: The Digital Den
 
