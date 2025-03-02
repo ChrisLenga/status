@@ -30,7 +30,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dgden.com
   # baseUrl: /status
-  logoUrl: https://dgden.com/images/thedigitalden.svg
+  logoUrl: https://raw.githubusercontent.com/ChrisLenga/status/c61718224ad5692f7c61678d54f7c6d8a8717a0d/assets/upptime-icon.svg
   name: Digital Den System Status
   introTitle: "All Digital Den services and their statuses."
   introMessage: Find real-time statuses of all services here.
