@@ -39,8 +39,6 @@ status-website:
       href: https://dgden.com
     - title: Discord
       href: https://discord.dgden.com
-    - title: Personal GitHub
-      href: https://github.com/$OWNER/$REPO
 i18n:
   footer: The Digital Den
 
