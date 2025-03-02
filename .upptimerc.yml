@@ -31,14 +31,14 @@ status-website:
   cname: status.dgden.com
   # baseUrl: /status
   logoUrl: https://dgden.com/images/thedigitalden.svg
-  name: The Digital Den Services
-  introTitle: "All community services and their statuses."
-  introMessage: Find real-time statuses of all services currently used by the community here.
+  name: Digital Den System Status
+  introTitle: "All Digital Den services and their statuses."
+  introMessage: Find real-time statuses of all services here.
   navbar:
     - title: Main Website
       href: https://dgden.com
     - title: Discord
-      href: https://discord.gg/YhvJkuAwYW
+      href: https://discord.dgden.com
     - title: Personal GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
