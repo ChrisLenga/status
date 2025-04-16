@@ -45,46 +45,50 @@
     "url": "$DISCORD_BOT1_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "horoscope-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 28,
     "timeDay": 21,
     "timeWeek": 29,
     "timeMonth": 25,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 4
+    }
   },
   {
     "name": "The Digital Den",
     "url": "$DISCORD_BOT2_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-digital-den",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 29,
     "timeDay": 23,
     "timeWeek": 29,
     "timeMonth": 25,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 3
+    }
   },
   {
     "name": "GitHub Bot",
     "url": "$DISCORD_BOT3_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-hub-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
@@ -92,16 +96,18 @@
     "timeWeek": 29,
     "timeMonth": 25,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 1
+    }
   },
   {
     "name": "Streamer Bot",
     "url": "$DISCORD_BOT4_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "streamer-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,6 +116,8 @@
     "timeWeek": 29,
     "timeMonth": 25,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 0
+    }
   }
 ]
