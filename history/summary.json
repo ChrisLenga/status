@@ -45,19 +45,19 @@
     "url": "$DISCORD_BOT1_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "horoscope-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.85%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.96%",
     "time": 28,
     "timeDay": 21,
     "timeWeek": 29,
     "timeMonth": 25,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2025-04-16": 4
+      "2025-04-16": 132
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$DISCORD_BOT2_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-digital-den",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.96%",
     "time": 29,
-    "timeDay": 23,
-    "timeWeek": 29,
-    "timeMonth": 25,
+    "timeDay": 39,
+    "timeWeek": 32,
+    "timeMonth": 26,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2025-04-16": 3
+      "2025-04-16": 131
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "$DISCORD_BOT3_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-hub-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.96%",
     "time": 28,
-    "timeDay": 23,
-    "timeWeek": 29,
-    "timeMonth": 25,
+    "timeDay": 39,
+    "timeWeek": 32,
+    "timeMonth": 26,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2025-04-16": 1
+      "2025-04-16": 129
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "$DISCORD_BOT4_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "streamer-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.96%",
     "time": 28,
-    "timeDay": 22,
-    "timeWeek": 29,
-    "timeMonth": 25,
+    "timeDay": 38,
+    "timeWeek": 32,
+    "timeMonth": 26,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-16": 128
     }
   }
 ]
