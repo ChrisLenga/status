@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
-    "timeDay": 102,
-    "timeWeek": 69,
-    "timeMonth": 56,
+    "timeDay": 101,
+    "timeWeek": 68,
+    "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
       "2025-02-22": 6,
@@ -28,14 +28,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 861,
-    "timeDay": 302,
-    "timeWeek": 665,
-    "timeMonth": 608,
-    "timeYear": 861,
+    "time": 873,
+    "timeDay": 4126,
+    "timeWeek": 795,
+    "timeMonth": 725,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-04-22": 28,
       "2025-01-10": 10
@@ -55,7 +55,7 @@
     "time": 28,
     "timeDay": 50,
     "timeWeek": 34,
-    "timeMonth": 27,
+    "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2025-04-16": 132
@@ -67,17 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-digital-den",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.96%",
     "time": 29,
     "timeDay": 51,
     "timeWeek": 34,
-    "timeMonth": 28,
+    "timeMonth": 29,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 131
+    }
   },
   {
     "name": "GitHub Bot",
@@ -93,7 +95,7 @@
     "time": 28,
     "timeDay": 51,
     "timeWeek": 34,
-    "timeMonth": 28,
+    "timeMonth": 29,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2025-04-16": 129
@@ -111,9 +113,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.97%",
     "time": 28,
-    "timeDay": 51,
+    "timeDay": 50,
     "timeWeek": 34,
-    "timeMonth": 28,
+    "timeMonth": 29,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2025-04-16": 128
