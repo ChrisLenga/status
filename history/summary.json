@@ -4,10 +4,10 @@
     "url": "$TDD_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-digital-den-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -16,6 +16,7 @@
     "timeMonth": 61,
     "timeYear": 58,
     "dailyMinutesDown": {
+      "2025-05-06": 1,
       "2025-02-22": 6,
       "2024-08-23": 15
     }
@@ -25,7 +26,7 @@
     "url": "$TDD_PANEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-digital-den-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 728,
     "timeYear": 872,
     "dailyMinutesDown": {
+      "2025-05-06": 0,
       "2025-04-22": 28,
       "2025-01-10": 10
     }
